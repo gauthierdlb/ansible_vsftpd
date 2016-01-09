@@ -1,0 +1,10 @@
+# vsfptd/defaults/main.yml
+
+#The default ftp directory where your shares will be placed
+vsftpd_shares_root: '/srv/shares'
+#List ftp shares that need to be created 
+vsftpd_shares: []
+# users to create with nologin
+vsftpd_users: []
+# user group to create with nologin
+vsftpd_groups: []

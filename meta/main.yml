@@ -1,0 +1,15 @@
+# vsftpd/meta/main.yml
+---
+galaxy_info:
+  author: Gauthier Delbare <gauthier.delbare.u1749@student.hogent.be>
+  description: Installs and configures vsftpd on CentOS/RHEL 7.
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+      - 7
+  categories:
+  - networking
+  - system
+dependencies: []
