@@ -18,8 +18,9 @@ rol publiceert.
 ##Test
 • tests/ bevat een kleine testomgeving met een eigen Vagrantfile en playbook
 ## Links
-http://vsftpd.beasts.org/vsftpd_conf.html
-https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/s1-FTP.html
+http://vsftpd.beasts.org/vsftpd_conf.html  
+
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/s1-FTP.html  
 
 ## License
 
